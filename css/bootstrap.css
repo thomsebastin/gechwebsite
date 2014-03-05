@@ -6165,3 +6165,8 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+.dropdown:hover 
+  
+  .dropdown-menu {
+    display: block;
+ }
